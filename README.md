@@ -69,3 +69,9 @@ This will be the First Screen on Creating Application
 - This is MainActivity.kt file 
 
   ![image](https://user-images.githubusercontent.com/110806025/187030105-f6ae7761-0187-4fe2-8849-0157f9498a34.png)
+
+### Activity Life Cycle
+
+- This is a Life Cycle of an Android Activity
+
+  ![Android-Activity-Lifecycle](https://user-images.githubusercontent.com/110806025/187030993-ff77e47b-a179-4e6e-af8e-89b2cce99950.png)
