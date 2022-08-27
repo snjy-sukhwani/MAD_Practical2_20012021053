@@ -52,3 +52,11 @@ This will be the First Screen on Creating Application
 
   ![image](https://user-images.githubusercontent.com/110806025/187029089-ccc3624b-b9f4-48c1-a4d7-05541b5c7927.png)
 
+- To get the Code of the *activity_main.xml*, you can see the option for **``` Code | Split | Design ```** in the right side
+
+  ![Screenshot (1170)_0](https://user-images.githubusercontent.com/110806025/187029825-724b3c3e-4c0c-4309-a358-c102e53a7c0a.png)
+
+- In **```Code```**, you will only get Code of *activity_main.xml*, In **```Design```**, You will get the Design of the *activity_main.xml* only BUT if you want both you can use **```Split```** Option
+
+  ![image](https://user-images.githubusercontent.com/110806025/187029898-17a74f81-acff-4449-9d82-ceedd576acf0.png)
+
