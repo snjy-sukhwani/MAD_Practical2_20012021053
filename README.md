@@ -2,7 +2,7 @@
 This is Practical 2 - MAKING FIRST ANDROID APP in Android Studio for Mobile Application Development(MAD).
 
 ## Creating New Project in Android Studio
-First of all,Open Android Studio
+First of all, Open Android Studio
 
 ![image](https://user-images.githubusercontent.com/110806025/187028644-4b613577-f084-4bf3-a305-55d1a5b51d33.png)
 
@@ -27,3 +27,15 @@ After the Project will be Created *[It will take time to download Gradle and all
 This will be the First Screen on Creating Application
 
 ![image](https://user-images.githubusercontent.com/110806025/187028813-0d3050db-b832-4141-ac8e-b4484aa847e0.png)
+
+## Files in Android Project
+
+### activity_main.xml
+- This is a XML File which is responsible for the Designing part of our Application
+- It is like HTML but in XML we can create our Own Tags
+- Also There is a Option of Code and Design i.e, The code will be automatically generated just by our Design
+- We can just drag and drop the Components from the Palette Menu/Window in the required place in our design part
+- Path of the File (*activity_main.xml*) : **```Project-Name\app\src\main\res\layout\activity_main.xml```**
+- This is activity_main.xml file [White Screen is our main Application Design and the Blue Screen is the Blueprint of our Application]
+
+  ![image](https://user-images.githubusercontent.com/110806025/187029249-df7444dc-278e-4f4d-85a3-c748a0d74fb7.png)
