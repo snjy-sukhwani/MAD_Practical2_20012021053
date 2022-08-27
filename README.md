@@ -60,3 +60,12 @@ This will be the First Screen on Creating Application
 
   ![image](https://user-images.githubusercontent.com/110806025/187029898-17a74f81-acff-4449-9d82-ceedd576acf0.png)
 
+
+### MainActivity.kt
+- This is a Kotlin File which is responsible for the Logical part of our Application
+- It is like brain of the Application as it will decide what to do and when
+- According to the persepective of the website, Kotlin File is like JavaScript similarly XML file is like HTML and CSS
+- Path of the File (*MainActivity.kt*) : **```Project-Name\app\src\main\java\com\example\mad_practical2_200120201053\MainActivity.kt```**
+- This is MainActivity.kt file 
+
+  ![image](https://user-images.githubusercontent.com/110806025/187030105-f6ae7761-0187-4fe2-8849-0157f9498a34.png)
