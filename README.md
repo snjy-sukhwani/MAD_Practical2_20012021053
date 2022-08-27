@@ -39,3 +39,7 @@ This will be the First Screen on Creating Application
 - This is activity_main.xml file [White Screen is our main Application Design and the Blue Screen is the Blueprint of our Application]
 
   ![image](https://user-images.githubusercontent.com/110806025/187029249-df7444dc-278e-4f4d-85a3-c748a0d74fb7.png)
+
+- To remove the Blueprint of the Application, select the blue layered icon from the Design View and in it select Design
+
+  ![image](https://user-images.githubusercontent.com/110806025/187029344-68a05df8-b30c-4b20-8ee5-fef14d8393e8.png)
