@@ -40,6 +40,15 @@ This will be the First Screen on Creating Application
 
   ![image](https://user-images.githubusercontent.com/110806025/187029249-df7444dc-278e-4f4d-85a3-c748a0d74fb7.png)
 
-- To remove the Blueprint of the Application, select the blue layered icon from the Design View and in it select Design
+- To remove the **Blueprint** of the Application, select the blue layered icon from the Design View and in it select **```Design```**
 
   ![image](https://user-images.githubusercontent.com/110806025/187029344-68a05df8-b30c-4b20-8ee5-fef14d8393e8.png)
+
+- To get the Mobile Phone View of the App just check for the **```Show System UI```** option in Eye icon of designning
+
+  ![image](https://user-images.githubusercontent.com/110806025/187029046-04bf3c2c-26dd-4584-97df-25bdc830bb64.png)
+
+- On Clicking the **```Show System UI```** Option, we will get the UI of Phone as Well
+
+  ![image](https://user-images.githubusercontent.com/110806025/187029089-ccc3624b-b9f4-48c1-a4d7-05541b5c7927.png)
+
