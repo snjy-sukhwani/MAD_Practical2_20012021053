@@ -116,3 +116,18 @@ This will be the First Screen on Creating Application
 - onDestroy() is called before the activity is destroyed. The system invokes this callback either because:
   - the activity is finishing
   - the system is temporarily destroying the activity
+
+## Exercise : Create a “Hello World” application which has a yellow layout background with red color,20sp font size and display text on the center of the screen.
+
+### Solution : 
+
+**Exercise File : MainActivity.kt**
+  ![image](https://user-images.githubusercontent.com/110806025/187234152-f8bcbcff-8869-4f59-b5b1-f01d221cea7c.png)
+
+**Exercise File : activity_main.xml**
+  ![image](https://user-images.githubusercontent.com/110806025/187234899-f70d8564-ba5c-46ba-b625-5b6990fcbe6f.png)
+
+**NOTE :** <br>
+  **For Code of MainActivity.kt : Go to File, ```app\src\main\java\com\example\mad_practical2_200120201053\MainActivity.kt```**  
+  **For Code of activity_main.xml : Go to File, ```app\src\main\res\layout\activity_main.xml```**
+
