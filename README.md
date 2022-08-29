@@ -131,3 +131,27 @@ This will be the First Screen on Creating Application
   **MainActivity.kt Code :```app\src\main\java\com\example\mad_practical2_200120201053\MainActivity.kt```**  
   **activity_main.xml Code : ```app\src\main\res\layout\activity_main.xml```**
 
+### Output [Logcat]
+
+![image](https://user-images.githubusercontent.com/110806025/187268476-c77ff603-4c16-41f0-a3f9-674047bf6370.png)
+
+### Output [Screenshots]
+
+When we Open the Application First Time :
+
+When we Open the Application after some other activity :
+
+When we closes the application :
+
+<img src="https://user-images.githubusercontent.com/110806025/187269056-7c575b53-eca4-477b-83cb-247aae138183.PNG" width="10%"><img src="https://user-images.githubusercontent.com/110806025/187269057-0c386e7c-4d46-4800-8e04-70bee2229cd2.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269061-708d91fe-003e-4c67-b654-40029cfa763c.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269045-26242edd-9682-45d2-864a-edbdf64d9a46.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269050-f53f66fb-269d-4bb8-bbef-3c25ce6a2c48.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269054-3b660217-38f9-4e3a-b96e-07e043aef680.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269026-e8489bae-84cd-46ac-9558-7c9af4bcea93.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269031-c07b63b6-53ab-48f2-bf6e-340ae82bccde.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269034-8e8f3f4f-37cf-44ac-bdb0-44f8a56bca8b.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269036-918e458a-704c-4d6d-91cb-de29f74d87c3.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269037-000d0705-c3cd-4e51-9302-82a779eed489.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187269042-cf352669-9da9-4747-8008-012640781e07.PNG" width="10%">
+
