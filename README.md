@@ -128,6 +128,6 @@ This will be the First Screen on Creating Application
   ![image](https://user-images.githubusercontent.com/110806025/187234899-f70d8564-ba5c-46ba-b625-5b6990fcbe6f.png)
 
 **NOTE :** <br>
-  **For Code of MainActivity.kt : Go to File, ```app\src\main\java\com\example\mad_practical2_200120201053\MainActivity.kt```**  
-  **For Code of activity_main.xml : Go to File, ```app\src\main\res\layout\activity_main.xml```**
+  **MainActivity.kt Code :```app\src\main\java\com\example\mad_practical2_200120201053\MainActivity.kt```**  
+  **activity_main.xml Code : ```app\src\main\res\layout\activity_main.xml```**
 
