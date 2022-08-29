@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var app: ConstraintLayout
 
+    // Function invoke when onCreate(s Event is Fired . .
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -29,6 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    // Function invoke when onStart() Event is Fired . .
     override fun onStart() {
         super.onStart()
 
@@ -39,6 +41,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"Toast Message : onStart Event Invoked",Toast.LENGTH_LONG).show()
     }
 
+    // Function invoke when onResume() Event is Fired . .
     override fun onResume() {
         super.onResume()
 
@@ -49,6 +52,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"Toast Message : onResume Event Invoked",Toast.LENGTH_LONG).show()
     }
 
+    // Function invoke when onPause() Event is Fired . .
     override fun onPause() {
         super.onPause()
 
@@ -59,6 +63,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"Toast Message : onPause Event Invoked",Toast.LENGTH_LONG).show()
     }
 
+    // Function invoke when onStop() Event is Fired . .
     override fun onStop() {
         super.onStop()
 
@@ -69,6 +74,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"Toast Message : onStop Event Invoked",Toast.LENGTH_LONG).show()
     }
 
+    // Function invoke when onDestroy() Event is Fired . .
     override fun onDestroy() {
         super.onDestroy()
 
@@ -79,6 +85,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"Toast Message : onDestroy Event Invoked",Toast.LENGTH_LONG).show()
     }
 
+    // Function invoke when onRestart() Event is Fired . .
     override fun onRestart() {
         super.onRestart()
 
