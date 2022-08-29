@@ -70,8 +70,49 @@ This will be the First Screen on Creating Application
 
   ![image](https://user-images.githubusercontent.com/110806025/187030105-f6ae7761-0187-4fe2-8849-0157f9498a34.png)
 
-### Activity Life Cycle
+## Activity Life Cycle
 
 - This is a Life Cycle of an Android Activity
 
   ![Android-Activity-Lifecycle](https://user-images.githubusercontent.com/110806025/187030993-ff77e47b-a179-4e6e-af8e-89b2cce99950.png)
+
+### onCreate Event
+- onCreate Event : Fires when the system first creates the activity
+- On activity creation, the activity enters the Created state.
+- After the onCreate() method finishes execution, the activity enters the Started state.
+- and the system calls the onStart() and onResume() methods.
+
+### onStart() Event
+- When the activity enters the Started state, the system invokes this callback.
+- The onStart() call makes the activity visible to the user, as the app prepares for the activity to enter the foreground and become interactive.
+- Once this callback finishes, the activity enters the Resumed state, and the system invokes the onResume() method.
+
+### onResume() Event
+- When the activity enters the Resumed state, it comes to the foreground, and then the system invokes the onResume() callback.
+- This is the state in which the app interacts with the user.
+- The app stays in this state until something happens to take focus away from the app.
+- When an interruptive event occurs, the activity enters the Paused state, and the system invokes the onPause() callback.
+- If the activity returns to the Resumed state from the Paused state, the system once again calls onResume() method.
+
+### onPause() Event
+- The system calls this method as the first indication that the user is leaving your activity (though it does not always mean the activity is being destroyed); it indicates that the activity is no longer in the foreground (though it may still be visible if the user is in multi-window mode).
+- Use the onPause() method to pause or adjust operations that should not continue (or should continue in moderation) while the Activity is in the Paused state,and that you expect to resume shortly.
+- Completion of the onPause() method does not mean that the activity leaves the Paused state.
+- Rather, the activity remains in this state until either the activity resumes or becomes completely invisible to the user.
+- If the activity resumes, the system once again invokes the onResume() callback.
+
+### onStop() Event
+- When your activity is no longer visible to the user, it has entered the Stopped state, and the system invokes the onStop() callback.
+- In the onStop() method, the app should release or adjust resources that are not needed while the app is not visible to the user.
+- From the Stopped state, the activity either comes back to interact with the user, or the activity is finished running and goes away.
+- If the activity comes back, the system invokes onRestart().
+- If the Activity is finished running, the system calls onDestroy().
+
+### onRestart() Event
+- Called after onStop() when the current activity is being re-displayed to the user (the user has navigated back to it).
+- It will be followed by onStart() and then onResume().
+
+### onDestroy() Event
+- onDestroy() is called before the activity is destroyed. The system invokes this callback either because:
+  - the activity is finishing
+  - the system is temporarily destroying the activity
