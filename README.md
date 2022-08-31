@@ -121,10 +121,10 @@ This will be the First Screen on Creating Application
 
 ### Solution : 
 
-**Exercise File : MainActivity.kt**
+### **Exercise File : MainActivity.kt**
   ![image](https://user-images.githubusercontent.com/110806025/187234152-f8bcbcff-8869-4f59-b5b1-f01d221cea7c.png)
 
-**Exercise File : activity_main.xml**
+### **Exercise File : activity_main.xml**
   ![image](https://user-images.githubusercontent.com/110806025/187234899-f70d8564-ba5c-46ba-b625-5b6990fcbe6f.png)
 
 **NOTE :** <br>
