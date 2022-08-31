@@ -116,3 +116,35 @@ This will be the First Screen on Creating Application
 - onDestroy() is called before the activity is destroyed. The system invokes this callback either because:
   - the activity is finishing
   - the system is temporarily destroying the activity
+
+## Exercise : Create a “Hello World” application which has a yellow layout background with red color,20sp font size and display text on the center of the screen.
+
+### Solution : 
+
+**Exercise File : MainActivity.kt**
+  ![image](https://user-images.githubusercontent.com/110806025/187234152-f8bcbcff-8869-4f59-b5b1-f01d221cea7c.png)
+
+**Exercise File : activity_main.xml**
+  ![image](https://user-images.githubusercontent.com/110806025/187234899-f70d8564-ba5c-46ba-b625-5b6990fcbe6f.png)
+
+**NOTE :** <br>
+  **MainActivity.kt Code :```app\src\main\java\com\example\mad_practical2_200120201053\MainActivity.kt```**  
+  **activity_main.xml Code : ```app\src\main\res\layout\activity_main.xml```**
+
+### Output [Logcat]
+
+![image](https://user-images.githubusercontent.com/110806025/187268476-c77ff603-4c16-41f0-a3f9-674047bf6370.png)
+
+### Output [Screenshots]
+
+### When we Open the Application First Time :
+
+<img src="https://user-images.githubusercontent.com/110806025/187586010-107267e9-56dd-4549-acbf-c58026287539.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187586004-aeb647d9-b2db-405e-b5e3-b2a01cc19de3.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187585998-1c370149-bbbc-437e-afb4-955f3c3206ff.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187585994-d00b70de-fe5e-446e-a8d7-d729c6dc93c6.PNG" width="20%">
+
+### When we Open the Application after some other activity :
+
+<img src="https://user-images.githubusercontent.com/110806025/187586239-e670f61f-38de-4d99-9bfb-0ebc3aaadc32.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586241-5ed72e86-93de-46cd-84fc-308e51fecdb2.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586248-9315231f-821c-4574-9e1e-3d22b8d8aa38.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586251-fb4fdf3c-7cc6-46a9-8d4f-e6053461093f.PNG" width="20%">
+
+### When we closes the application :
+
+<img src="https://user-images.githubusercontent.com/110806025/187586264-f343df80-05fe-4248-a199-9f744b7dbb06.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586271-92379d7b-f269-42eb-827a-ff8eee8f5dc4.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586276-0d80f605-ba1f-4a5e-aaef-b8f4cae09ae4.PNG" width="20%">
