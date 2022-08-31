@@ -137,21 +137,14 @@ This will be the First Screen on Creating Application
 
 ### Output [Screenshots]
 
-When we Open the Application First Time :
+### When we Open the Application First Time :
 
-When we Open the Application after some other activity :
+<img src="https://user-images.githubusercontent.com/110806025/187586010-107267e9-56dd-4549-acbf-c58026287539.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187586004-aeb647d9-b2db-405e-b5e3-b2a01cc19de3.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187585998-1c370149-bbbc-437e-afb4-955f3c3206ff.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187585994-d00b70de-fe5e-446e-a8d7-d729c6dc93c6.PNG" width="20%">
 
-When we closes the application :
+### When we Open the Application after some other activity :
 
-<img src="https://user-images.githubusercontent.com/110806025/187269056-7c575b53-eca4-477b-83cb-247aae138183.PNG" width="10%"><img src="https://user-images.githubusercontent.com/110806025/187269057-0c386e7c-4d46-4800-8e04-70bee2229cd2.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269061-708d91fe-003e-4c67-b654-40029cfa763c.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269045-26242edd-9682-45d2-864a-edbdf64d9a46.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269050-f53f66fb-269d-4bb8-bbef-3c25ce6a2c48.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269054-3b660217-38f9-4e3a-b96e-07e043aef680.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269026-e8489bae-84cd-46ac-9558-7c9af4bcea93.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269031-c07b63b6-53ab-48f2-bf6e-340ae82bccde.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269034-8e8f3f4f-37cf-44ac-bdb0-44f8a56bca8b.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269036-918e458a-704c-4d6d-91cb-de29f74d87c3.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269037-000d0705-c3cd-4e51-9302-82a779eed489.PNG" width="10%">
-<img src="https://user-images.githubusercontent.com/110806025/187269042-cf352669-9da9-4747-8008-012640781e07.PNG" width="10%">
+<img src="https://user-images.githubusercontent.com/110806025/187586239-e670f61f-38de-4d99-9bfb-0ebc3aaadc32.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586241-5ed72e86-93de-46cd-84fc-308e51fecdb2.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586248-9315231f-821c-4574-9e1e-3d22b8d8aa38.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586251-fb4fdf3c-7cc6-46a9-8d4f-e6053461093f.PNG" width="20%">
 
+### When we closes the application :
+
+<img src="https://user-images.githubusercontent.com/110806025/187586264-f343df80-05fe-4248-a199-9f744b7dbb06.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586271-92379d7b-f269-42eb-827a-ff8eee8f5dc4.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586276-0d80f605-ba1f-4a5e-aaef-b8f4cae09ae4.PNG" width="20%">
