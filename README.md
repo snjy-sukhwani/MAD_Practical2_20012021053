@@ -141,9 +141,13 @@ This will be the First Screen on Creating Application
 
 <img src="https://user-images.githubusercontent.com/110806025/187586010-107267e9-56dd-4549-acbf-c58026287539.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187586004-aeb647d9-b2db-405e-b5e3-b2a01cc19de3.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187585998-1c370149-bbbc-437e-afb4-955f3c3206ff.PNG" width="20%"> <img src="https://user-images.githubusercontent.com/110806025/187585994-d00b70de-fe5e-446e-a8d7-d729c6dc93c6.PNG" width="20%">
 
+<hr>
+
 ### When we Open the Application after some other activity :
 
 <img src="https://user-images.githubusercontent.com/110806025/187586239-e670f61f-38de-4d99-9bfb-0ebc3aaadc32.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586241-5ed72e86-93de-46cd-84fc-308e51fecdb2.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586248-9315231f-821c-4574-9e1e-3d22b8d8aa38.PNG" width="20%"><img src="https://user-images.githubusercontent.com/110806025/187586251-fb4fdf3c-7cc6-46a9-8d4f-e6053461093f.PNG" width="20%">
+
+<hr>
 
 ### When we closes the application :
 
